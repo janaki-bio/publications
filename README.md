@@ -19,4 +19,17 @@ Molecular Docking and Interaction Studies of Identified Abscisic Acid Receptors 
 
 ---
 
+## 🗂️ Biocuration Work
+
+### CovidKosha Database — Biocurator
+**BdataA / IBAB, Bengaluru | Oct 2020 – Mar 2021**
+
+Curated 60+ research papers on SARS-CoV-2 for [CovidKosha](https://covidkosha.org), a COVID-19 knowledge database developed by IBAB and Bangalore Bioinnovation Centre.
+
+- Categories covered: pathophysiology, immunology, molecular interactions, and drug studies
+- Recognised as a top-performing voluntary curator by Dr. Kshitish K Acharya (Founder, BdataA)
+- 🔗 [Contributor profile](https://covidkosha.org/team_profile.pl)
+
+---
+
 *Last updated: June 2026*
