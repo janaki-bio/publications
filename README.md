@@ -1,6 +1,10 @@
 # publications
 This repository contains supporting materials, data summaries, and scripts related to my peer-reviewed publications in computational biology and bioinformatics. 
 
+## 2026
+
+**Balasubramanian, J.** (2026). What do mRNA-based predictions of microRNA expression measure? An attribution analysis of 337 miRNA precursors in TCGA breast tumours (Version 1.0) [Computer software]. 🔗[https://doi.org/10.5281/zenodo.24032845](https://doi.org/10.5281/zenodo.24032845)
+
 ## 2025
 
 **Behrens T, Balasubramanian J, Ivask M, Nõmm M, Kavak A, Secher JB, Kadarmideen HN, Rabaglino MB.**
